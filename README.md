@@ -1,4 +1,4 @@
-### Hi there 👋
+![Javascript](https://media1.tenor.com/images/44032d4723c6ad855cab151c76fbe148/tenor.gif)
 
 <!--
 **AceroM/AceroM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
